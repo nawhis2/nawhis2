@@ -21,4 +21,4 @@ Tools : Vi/Vim, Makefile, CMake, openGL
 
 ### 42 Seoul (2023.10. ~ 2025.03.)
 - 42seoul 10th cadet
-- Projects about system programming by C, C++
+- Projects about system programming, graphics, etc. by C, C++
