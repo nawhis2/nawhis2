@@ -3,7 +3,7 @@
 
 Language : C, C++
 
-Tools : Vi/Vim, Makefile, CMake, openGL
+Tools : Git, Vim, Makefile, CMake, OpenGL, OpenCV, Qt, GStreamer(RTSP streaming), YOLO
 
 
 ## My Activities
@@ -17,7 +17,11 @@ Tools : Vi/Vim, Makefile, CMake, openGL
 
 ## Experiences
 
-### 
+### Hanwha Vision VEDA(Vision Edge Device Academy) 
+- Studied system programming and device driver development in C/C++ on Linux.
+- Developed a Contact Management Application using Qt framework.
+- Designed and implemented a TCP remote control server/client system via low-level socket programming.
+- Built a smart farm monitoring system using RTSP-based real-time video streaming.
 
 ### 42 Seoul (2023.10. ~ 2025.03.)
 - 42seoul 10th cadet
