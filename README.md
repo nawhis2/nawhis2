@@ -1,9 +1,9 @@
 ## Hi there 👋
 ## Skills
 
-Language : C, C++
+Language : C/C++, Python, shell script
 
-Tools : Git, Vim, Makefile, CMake, OpenGL, OpenCV, Qt, GStreamer(RTSP streaming), YOLO
+Tools : Git, Vim, Makefile, CMake, OpenGL, OpenCV, Qt, GStreamer(RTSP streaming), Docker
 
 
 ## My Activities
